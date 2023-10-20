@@ -1,4 +1,4 @@
-# DSCI310 Final Project
+# DSCI320 Final Project
 
 Group members: Dia, Jade & Sam
 
