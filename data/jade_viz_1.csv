@@ -1,0 +1,52 @@
+y,Athlete,Non-Athlete,x1,x2,Dataset
+Academic,3.0,2.75,2.75,3.0,Occupation
+Accountant,4.25,3.25,3.25,4.25,Occupation
+Administrator,2.5,3.0,2.5,3.0,Occupation
+Auditor,3.0,4.0,3.0,4.0,Occupation
+Civil Engineer,4.0,4.0,4.0,4.0,Occupation
+Civil Servant,3.5,3.5,3.5,3.5,Occupation
+Civil servant,3.0,3.0,3.0,3.0,Occupation
+Civil service,4.0,2.5,2.5,4.0,Occupation
+Coach,4.0,4.0,4.0,4.0,Occupation
+Doctor,4.0,4.0,4.0,4.0,Occupation
+Engineer,4.0,4.0,4.0,4.0,Occupation
+Football Coach,4.0,3.0,3.0,4.0,Occupation
+Full Time Student,3.0,1.0,1.0,3.0,Occupation
+Home maker,4.0,5.0,4.0,5.0,Occupation
+IT Manager,2.0,4.0,2.0,4.0,Occupation
+Joiner,3.0,4.0,3.0,4.0,Occupation
+Journalist,2.0,2.5,2.0,2.5,Occupation
+Lecturer,3.75,3.5,3.5,3.75,Occupation
+Local government,5.0,3.0,3.0,5.0,Occupation
+Management,4.0,3.0,3.0,4.0,Occupation
+Mental health nurse,4.0,4.0,4.0,4.0,Occupation
+Nurse,4.0,3.5,3.5,4.0,Occupation
+Optometrist,4.0,3.0,3.0,4.0,Occupation
+PE Teacher,4.0,4.0,4.0,4.0,Occupation
+PE teacher,4.0,4.0,4.0,4.0,Occupation
+Physiotherapist,4.0,4.0,4.0,4.0,Occupation
+Project Manager,3.0,2.25,2.25,3.0,Occupation
+Psychologist,5.0,4.0,4.0,5.0,Occupation
+Researcher,4.0,2.25,2.25,4.0,Occupation
+Retired,4.0,4.0,4.0,4.0,Occupation
+Sales,2.75,3.75,2.75,3.75,Occupation
+Secretary,4.0,1.0,1.0,4.0,Occupation
+Sports Coach,4.0,4.0,4.0,4.0,Occupation
+Sports Development Officer,5.0,5.0,5.0,5.0,Occupation
+Student,3.75,3.25,3.25,3.75,Occupation
+Teacher,3.75,3.75,3.75,3.75,Occupation
+Unemployed,3.25,2.5,2.5,3.25,Occupation
+Youth worker,2.0,5.0,2.0,5.0,Occupation
+student,3.75,4.0,3.75,4.0,Occupation
+Female,3.75,3.5,3.5,3.75,Gender
+Male,3.5,3.75,3.5,3.75,Gender
+18-20,3.5,3.5,3.5,3.5,Age Group
+21-30,3.75,3.5,3.5,3.75,Age Group
+31-40,3.5,3.5,3.5,3.5,Age Group
+41-50,3.5,3.5,3.5,3.5,Age Group
+51-60,4.0,3.5,3.5,4.0,Age Group
+61-70,4.25,4.0,4.0,4.25,Age Group
+71+,4.0,3.75,3.75,4.0,Age Group
+Australia,4.0,2.0,2.0,4.0,Country During Lockdown
+Ireland,3.75,3.75,3.75,3.75,Country During Lockdown
+UK,3.5,3.5,3.5,3.5,Country During Lockdown
