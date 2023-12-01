@@ -1,0 +1,40 @@
+y,Athlete,Non-Athlete,x1,x2,Difference
+Academic,3.0,2.75,2.75,3.0,0.25
+Accountant,4.25,3.25,3.25,4.25,1.0
+Administrator,2.5,3.0,2.5,3.0,-0.5
+Auditor,3.0,4.0,3.0,4.0,-1.0
+Civil Engineer,4.0,4.0,4.0,4.0,0.0
+Civil Servant,3.5,3.5,3.5,3.5,0.0
+Civil servant,3.0,3.0,3.0,3.0,0.0
+Civil service,4.0,2.5,2.5,4.0,1.5
+Coach,4.0,4.0,4.0,4.0,0.0
+Doctor,4.0,4.0,4.0,4.0,0.0
+Engineer,4.0,4.0,4.0,4.0,0.0
+Football Coach,4.0,3.0,3.0,4.0,1.0
+Full Time Student,3.0,1.0,1.0,3.0,2.0
+Home maker,4.0,5.0,4.0,5.0,-1.0
+IT Manager,2.0,4.0,2.0,4.0,-2.0
+Joiner,3.0,4.0,3.0,4.0,-1.0
+Journalist,2.0,2.5,2.0,2.5,-0.5
+Lecturer,3.75,3.5,3.5,3.75,0.25
+Local government,5.0,3.0,3.0,5.0,2.0
+Management,4.0,3.0,3.0,4.0,1.0
+Mental health nurse,4.0,4.0,4.0,4.0,0.0
+Nurse,4.0,3.5,3.5,4.0,0.5
+Optometrist,4.0,3.0,3.0,4.0,1.0
+PE Teacher,4.0,4.0,4.0,4.0,0.0
+PE teacher,4.0,4.0,4.0,4.0,0.0
+Physiotherapist,4.0,4.0,4.0,4.0,0.0
+Project Manager,3.0,2.25,2.25,3.0,0.75
+Psychologist,5.0,4.0,4.0,5.0,1.0
+Researcher,4.0,2.25,2.25,4.0,1.75
+Retired,4.0,4.0,4.0,4.0,0.0
+Sales,2.75,3.75,2.75,3.75,-1.0
+Secretary,4.0,1.0,1.0,4.0,3.0
+Sports Coach,4.0,4.0,4.0,4.0,0.0
+Sports Development Officer,5.0,5.0,5.0,5.0,0.0
+Student,3.75,3.25,3.25,3.75,0.5
+Teacher,3.75,3.75,3.75,3.75,0.0
+Unemployed,3.25,2.5,2.5,3.25,0.75
+Youth worker,2.0,5.0,2.0,5.0,-3.0
+student,3.75,4.0,3.75,4.0,-0.25
